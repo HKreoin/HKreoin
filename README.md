@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @HKreoin
-- 👀 I’m interested in backend development 
-- 🌱 I’m currently learning Java
+- 👀 I’m backend Java developer
