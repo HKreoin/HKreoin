@@ -37,7 +37,7 @@ Hi ! My name is Ilshat Khabirov
 
 ## My Projects
 
-### [My first project on Java](https://github.com/HKreoin/java-project-61)
+### [Игры разума](https://github.com/HKreoin/java-project-61)
    
    Мой первый проект на Java - "Игры разума".
 
@@ -45,7 +45,7 @@ Hi ! My name is Ilshat Khabirov
 
    Стек: Java.
 
-### [My Second project on Java](https://github.com/HKreoin/java-project-61)
+### [Вычислитель отличий](https://github.com/HKreoin/java-project-71)
    
    Мой второй проект на Java - "Вычислитель отличий".
 
@@ -54,3 +54,8 @@ Hi ! My name is Ilshat Khabirov
    При разработке приложения мной впервые использовался подход TDD.
 
    Стек: Java, JUnit, Github CI.
+
+### [Валидатор данных](https://github.com/HKreoin/java-project-78)
+Валидатор данных – библиотека, с помощью которой можно проверять корректность данных.
+
+Стек: Java, JUnit, Github CI.
