@@ -3,7 +3,7 @@ Hi ! My name is Ilshat Khabirov
 
 ## I'm fullstack developer
 
-* 🌍  I'm based in Almetyevsk
+
 
 ## My stack
 
@@ -19,6 +19,8 @@ Hi ! My name is Ilshat Khabirov
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## Socials
 
@@ -29,4 +31,26 @@ Hi ! My name is Ilshat Khabirov
 
 ## My GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=HKreoin)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HKreoin&layout=compact)](https://github.com/HKreoin/github-readme-stats)
+
+## My Projects
+
+### [My first project on Java](https://github.com/HKreoin/java-project-61)
+   
+   Мой первый проект на Java - "Игры разума".
+
+   В программе реализован выбор игр, сами игры, представляющие собой набор математических задач.
+
+   Стек: Java.
+
+### [My Second project on Java](https://github.com/HKreoin/java-project-61)
+   
+   Мой второй проект на Java - "Вычислитель отличий".
+
+   Вычислитель отличий – программа, определяющая разницу между двумя структурами данных.
+   
+   При разработке приложения мной впервые использовался подход TDD.
+
+   Стек: Java, JUnit, Github CI.
