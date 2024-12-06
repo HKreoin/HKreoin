@@ -29,13 +29,13 @@ Hi ! My name is Ilshat Khabirov
 
 ✉️ Also my email [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
-## My GitHub Stats
+## GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=HKreoin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HKreoin&layout=compact)](https://github.com/HKreoin/github-readme-stats)
 
-## My Projects
+## Мои проекты
 
 ### [Игры разума](https://github.com/HKreoin/java-project-61)
    
