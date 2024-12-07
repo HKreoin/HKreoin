@@ -27,7 +27,7 @@ Hi ! My name is Ilshat Khabirov
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kreoin)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+79872394211)
 
-✉️ Also my email [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
+Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 ## GitHub Stats
 
