@@ -56,6 +56,28 @@ Hi ! My name is Ilshat Khabirov
    Стек: Java, JUnit, Github CI.
 
 ### [Валидатор данных](https://github.com/HKreoin/java-project-78)
+
 Валидатор данных – библиотека, с помощью которой можно проверять корректность данных.
 
 Стек: Java, JUnit, Github CI.
+
+### [Анализатор страниц](https://github.com/HKreoin/java-project-72)
+
+Анализатор страниц на SEO пригодность. MVC архитектура.
+
+Стек: Java, Javalin, JDBC, JTE, JUnit, Github CI, Bootstrap.
+
+### [Менеджер задач](https://github.com/HKreoin/java-project-99)
+
+Task Manager – система управления задачами. Мной писался только бэкенд
+
+Стек: Java, Spring boot, JUnit, Github CI.
+
+### Справочник организации. Тестовое fullstack задание из двух частей:
+
+[Фронтенд на Vue](https://github.com/HKreoin/vue-front)
+
+[Бэкенд Spring](https://github.com/HKreoin/itprom) - описание задачи здесь.
+
+Стек: Java, Spring boot, JUnit, JS, Vue, Tailwind, Github CI.
+
