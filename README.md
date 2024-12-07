@@ -3,6 +3,7 @@ Hi ! My name is Ilshat Khabirov
 
 ## I'm fullstack developer
 
+I love development, constantly learning new things.
 
 
 ## My stack
