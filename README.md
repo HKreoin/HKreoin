@@ -87,3 +87,11 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 Стек: Java, Spring boot, JUnit, JS, Vue, Tailwind, Github CI.
 
+### 7. Fullstack VILT app
+
+[Ссылка на проект](https://github.com/HKreoin/VILT)
+
+Фуллстек на Vue, Inertia, Laravel, Tailwind, SPA.
+
+В процессе разработки.
+
