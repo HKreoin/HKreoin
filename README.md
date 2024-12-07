@@ -37,17 +37,17 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 ## Мои проекты
 
-### [Игры разума](https://github.com/HKreoin/java-project-61)
+### 1. Игры разума
    
-   Мой первый проект на Java - "Игры разума".
+   Мой первый проект на Java - ["Игры разума"](https://github.com/HKreoin/java-project-61).
 
    В программе реализован выбор игр, сами игры, представляющие собой набор математических задач.
 
    Стек: Java.
 
-### [Вычислитель отличий](https://github.com/HKreoin/java-project-71)
+### 2. Вычислитель отличий
    
-   Мой второй проект на Java - "Вычислитель отличий".
+   Мой второй проект на Java - ["Вычислитель отличий"](https://github.com/HKreoin/java-project-71)
 
    Вычислитель отличий – программа, определяющая разницу между двумя структурами данных.
    
@@ -55,25 +55,27 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
    Стек: Java, JUnit, Github CI.
 
-### [Валидатор данных](https://github.com/HKreoin/java-project-78)
+### 3. Валидатор данных
 
-Валидатор данных – библиотека, с помощью которой можно проверять корректность данных.
+[Валидатор данных](https://github.com/HKreoin/java-project-78) – библиотека, с помощью которой можно проверять корректность данных.
 
 Стек: Java, JUnit, Github CI.
 
-### [Анализатор страниц](https://github.com/HKreoin/java-project-72)
+### 4. Анализатор страниц
 
-Анализатор страниц на SEO пригодность. MVC архитектура.
+[Анализатор страниц](https://github.com/HKreoin/java-project-72) на SEO пригодность. MVC архитектура.
 
 Стек: Java, Javalin, JDBC, JTE, JUnit, Github CI, Bootstrap.
 
-### [Менеджер задач](https://github.com/HKreoin/java-project-99)
+### 5. Менеджер задач
 
-Task Manager – система управления задачами. Мной писался только бэкенд
+[Менеджер задач](https://github.com/HKreoin/java-project-99) – система управления задачами. Мной писался только бэкенд
 
 Стек: Java, Spring boot, JUnit, Github CI.
 
-### Справочник организации. Тестовое fullstack задание из двух частей:
+### 6. Справочник организации. 
+
+Тестовое fullstack задание из двух частей:
 
 [Фронтенд на Vue](https://github.com/HKreoin/vue-front)
 
