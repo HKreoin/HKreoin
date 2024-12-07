@@ -3,7 +3,7 @@ Hi ! My name is Ilshat Khabirov
 
 ## I'm fullstack developer
 
-I love development, constantly learning new things.
+I love development, constantly learning new things. I get satisfaction from achieving goals and solving problems.
 
 
 ## My stack
