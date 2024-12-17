@@ -41,41 +41,13 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 ## Мои проекты
 
-### 1. Игры разума
-   
-   Мой первый проект на Java - ["Игры разума"](https://github.com/HKreoin/java-project-61).
+### 7. Fullstack VILT app
 
-   В программе реализован выбор игр, сами игры, представляющие собой набор математических задач.
+[Ссылка на проект](https://github.com/HKreoin/VILT)
 
-   Стек: Java.
+Фуллстек на Vue, Inertia, Laravel, Tailwind, SPA.
 
-### 2. Вычислитель отличий
-   
-   Мой второй проект на Java - ["Вычислитель отличий"](https://github.com/HKreoin/java-project-71)
-
-   Вычислитель отличий – программа, определяющая разницу между двумя структурами данных.
-   
-   При разработке приложения мной впервые использовался подход TDD.
-
-   Стек: Java, JUnit, Github CI.
-
-### 3. Валидатор данных
-
-[Валидатор данных](https://github.com/HKreoin/java-project-78) – библиотека, с помощью которой можно проверять корректность данных.
-
-Стек: Java, JUnit, Github CI.
-
-### 4. Анализатор страниц
-
-[Анализатор страниц](https://github.com/HKreoin/java-project-72) на SEO пригодность. MVC архитектура.
-
-Стек: Java, Javalin, JDBC, JTE, JUnit, Github CI, Bootstrap.
-
-### 5. Менеджер задач
-
-[Менеджер задач](https://github.com/HKreoin/java-project-99) – система управления задачами. Мной писался только бэкенд
-
-Стек: Java, Spring boot, JUnit, Github CI.
+В процессе разработки.
 
 ### 6. Справочник организации. 
 
@@ -87,11 +59,42 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 Стек: Java, Spring boot, JUnit, JS, Vue, Tailwind, Github CI.
 
-### 7. Fullstack VILT app
 
-[Ссылка на проект](https://github.com/HKreoin/VILT)
+### 5. Менеджер задач
 
-Фуллстек на Vue, Inertia, Laravel, Tailwind, SPA.
+[Менеджер задач](https://github.com/HKreoin/java-project-99) – система управления задачами. Мной писался только бэкенд
 
-В процессе разработки.
+Стек: Java, Spring boot, JUnit, Github CI.
 
+
+### 4. Анализатор страниц
+
+[Анализатор страниц](https://github.com/HKreoin/java-project-72) на SEO пригодность. MVC архитектура.
+
+Стек: Java, Javalin, JDBC, JTE, JUnit, Github CI, Bootstrap.
+
+### 3. Валидатор данных
+
+[Валидатор данных](https://github.com/HKreoin/java-project-78) – библиотека, с помощью которой можно проверять корректность данных.
+
+Стек: Java, JUnit, Github CI.
+
+### 2. Вычислитель отличий
+   
+   Мой второй проект на Java - ["Вычислитель отличий"](https://github.com/HKreoin/java-project-71).
+   Есть [версия на PHP](https://github.com/HKreoin/php-project-48)
+
+   Вычислитель отличий – программа, определяющая разницу между двумя структурами данных.
+   
+   При разработке приложения мной впервые использовался подход TDD.
+
+   Стек: Java, JUnit, Github CI.
+
+### 1. Игры разума
+   
+   Мой первый проект на Java - ["Игры разума"](https://github.com/HKreoin/java-project-61).
+   Есть [версия на PHP](https://github.com/HKreoin/php-project-45)
+
+   В программе реализован выбор игр, сами игры, представляющие собой набор математических задач.
+
+   Стек: Java.
