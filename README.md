@@ -40,13 +40,15 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 ## Мои проекты
 
-### 7. Fullstack VILT app
+### 7. Fullstack Vue Laravel AI Chat
 
-[Ссылка на проект](https://github.com/HKreoin/VILT)
+[Ссылка на проект](https://github.com/HKreoin/fullstack-ai-chat)
 
-Фуллстек на Vue, Inertia, Laravel, Tailwind, SPA.
+Стек: Vue, Laravel, Tailwind.
 
-В процессе разработки.
+AI chat. Задеплоен на VPS в докер контейнерах. Настроены Nginx и https.
+
+[https://khabdev.site/](https://khabdev.site/)
 
 ### 6. Справочник организации. 
 
