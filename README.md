@@ -42,13 +42,13 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 ### 7. Fullstack Vue Laravel AI Chat
 
-[Ссылка на проект](https://github.com/HKreoin/fullstack-ai-chat)
+Ссылка на репозиторий [(https://github.com/HKreoin/fullstack-ai-chat](https://github.com/HKreoin/fullstack-ai-chat)
+
+Ссылка на сайт [https://khabdev.site/](https://khabdev.site/)
 
 Стек: Vue, Laravel, Tailwind.
 
-AI chat. Задеплоен на VPS в докер контейнерах. Настроены Nginx и https.
-
-[https://khabdev.site/](https://khabdev.site/)
+AI чат с текстовым и голосовым вводом. Задеплоен на VPS в докер контейнерах. Настроены Nginx и https.
 
 ### 6. Справочник организации. 
 
