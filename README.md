@@ -41,11 +41,19 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 ## Мои проекты
 
+### 8. Counterparty app (тестовое)
+
+Ссылка на репозиторий https://github.com/HKreoin/counterparties
+
+Стек: Vue, Laravel, Inertia, Tailwind.
+
+Ссылка на сайт https://khabdev.site/
+
+Система для управления контрагентами, включающая в себя регистрацию/авторизацию пользователей, возможность добавления контрагентов по ИНН с получением данных из API DaData.
+
 ### 7. Fullstack Vue Laravel AI Chat
 
-Ссылка на репозиторий [(https://github.com/HKreoin/fullstack-ai-chat](https://github.com/HKreoin/fullstack-ai-chat)
-
-Ссылка на сайт [https://khabdev.site/](https://khabdev.site/)
+Ссылка на репозиторий https://github.com/HKreoin/fullstack-ai-chat
 
 Стек: Vue, Laravel, Tailwind.
 
