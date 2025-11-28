@@ -45,8 +45,6 @@ Also my email ✉️ [khabdev@yandex.ru](mailto:khabdev@yandex.ru)
 
 Стек: Vue, Laravel, Inertia, Tailwind.
 
-Ссылка на сайт https://khabdev.site/
-
 Система для управления контрагентами, включающая в себя регистрацию/авторизацию пользователей, возможность добавления контрагентов по ИНН с получением данных из API DaData.
 
 ### 7. Fullstack Vue Laravel AI Chat
